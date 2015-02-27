@@ -4,6 +4,7 @@
 
 <h1 id="vnettut1">Azure Active Directory Connect</h1>
 
+
 The Azure Active Directory Connect wizard is the single tool and guided experience for connecting your on-premises directories with Azure Active Directory.  The wizard deploys and configures all components required to get your directory integration up and running including sync services, password sync or Active Directory  Federation Services (AD FS), and prerequisites such as the Azure AD PowerShell module.
 
 >[AZURE.NOTE] **Azure Active Directory Connect encompasses functionality that was previously released as DirSync and AAD Sync. These tools will no longer be released individually.** 
